@@ -10,7 +10,7 @@
     </parent>
     <groupId>dev.iagorodrigues</groupId>
     <artifactId>dsbootcamp-java-first-task</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>dsbootcamp-java-first-task</name>
     <description>Demo project for Spring Boot</description>
     <properties>
