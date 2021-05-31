@@ -18,7 +18,7 @@ Recommended using [Intellij](https://www.jetbrains.com/pt-br/idea/), [STS](https
 
 ## Conceptual model
 
-
+<img src="https://raw.githubusercontent.com/oiagorodrigues/dsbootcamp-java-first-task/main/conceptual_model.jpg" width="300">
 
 ## Technologies
 
