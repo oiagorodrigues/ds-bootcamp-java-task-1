@@ -16,6 +16,13 @@ git clone git@github.com:oiagorodrigues/dsbootcamp-java-first-task.git
 Open it in your favorite IDE. 
 Recommended using [Intellij](https://www.jetbrains.com/pt-br/idea/), [STS](https://spring.io/tools) or [VSCode](https://code.visualstudio.com/).
 
+## Learning topics
+
+- Creating a Data Layer with Entity|Model, Repository and Service
+- Creating a API layer with Controller and DTO
+- Creating custom Exceptions, and StandarError and an ExceptionHandler
+- Seeing the database
+
 ## Conceptual model
 
 <img src="https://raw.githubusercontent.com/oiagorodrigues/dsbootcamp-java-first-task/main/conceptual_model.jpg" width="300">
